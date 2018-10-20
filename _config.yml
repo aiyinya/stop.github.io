@@ -6,24 +6,24 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "姚信的技术专栏"
+title: "徐士杰的技术专栏"
 brief-intro: "System Research"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://XinYao1994.github.io" # the base hostname & protocol for your site
+url: "https://xushijie10086.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
-github_username:  XinYao1994
-email: u3004330@connect.hku.hk
-weibo_username: 
-zhihu_username: 
-linkedIn_username: xinyao1994
-dribbble_username:
+github_username:  xushijie10086
+email: shijie10086@163.com
+weibo_username: none
+zhihu_username: 徐士杰
+linkedIn_username: none
+dribbble_username: none
 
-description_footer: 来自姚信的个人专栏！
+description_footer: 来自徐士杰的个人专栏！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -35,9 +35,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 52bbb620d9680fd85254                            #生成的clientID
   clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
-  repo: XinYao1994.github.io    #仓库名称
-  owner: XinYao1994    #github用户名
-  admin: XinYao1994
+  repo: xushijie10086.github.io    #仓库名称
+  owner: xushijie10086    #github用户名
+  admin: xushijie10086
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # statistic analysis 统计代码
@@ -50,7 +50,7 @@ ga_domain: auto
 
 friends: [
     {
-        title: "Linkedin - Xin YAO",
+        title: "Linkedin - Shijie Xu",
         href: "https://www.linkedin.com/in/%E4%BF%A1-%E5%A7%9A-947492167/"
     }
 ]
