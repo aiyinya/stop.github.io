@@ -3,7 +3,7 @@ layout:     post
 title:      Git Beginner
 subtitle:   History Blogs @ 2015/10/1
 date:       2018-09-25
-author:     Xin YAO
+author:     Shijie Xu
 catalog: true
 tags:
     - git
