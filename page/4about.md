@@ -11,36 +11,40 @@ type: page
 
 ## 关于我
 
-<div style="width: 300px;"> <img src="https://ws1.sinaimg.cn/large/006tNbRwgy1fwfxx46xc1j30ld0sg784.jpg" style="border: 0;width: 100%; overflow: hidden;" frameBorder="0">
+<div style="width: 200px;"> <img src="https://ws1.sinaimg.cn/large/006tNbRwgy1fwfxx46xc1j30ld0sg784.jpg" style="border: 0;width: 100%; overflow: hidden;" frameBorder="0">
 </div>
 
-就职于北京辰安科技，前端开发。
+首先为我鼓起勇气爆照来点掌声 👏👏。
+老铁们， 不用双击666. 哈哈哈哈😂😂
+这不是自恋，只是想展示真实的自己而已。
+
+我曾经就职于北京辰安科技，前端开发岗位。
 
 主要兴趣集中在前端开发，大前端的概念深入我心。将更多的业务逻辑放在前端中，这很有趣。同时，将自己构想的内容实现出来，这种感觉很愉快。
 
-##### 热爱美好的事物，热爱徒步，热爱西藏。
+##### 热爱美好的事物，热爱徒步，热爱自驾，热爱西藏。
 
-**大昭寺门前铺满阳光** 
-**打一壶甜茶** 
-**我们聊着过往**
+**大昭寺门前铺满阳光 打一壶甜茶 我们聊着过往**
+向往着这样的生活，可是还得面对现实。
+工作学习也是一个非常愉快的过程。共同加油！
 
-还有，学习是一个非常愉快的过程。共同加油！
-
-* 2017.8 北京辰安
-* 2016.4 北京尚诺集团
+* 2017.8 北京辰安入职
+* 2016.4 北京尚诺集团入职
 * 2014.3 - 2015.8 天津圣辉友联
 
 ## 联系我
 
 * GitHub：[xushijie10086](https://github.com/xushijie10086)
 * email：shijie10086@163.com
+
+<!-- 
 * [Weibo]
 * [知乎]
 * [Facebook]
 * [Twitter]
-* [豆瓣]
+* [豆瓣] -->
 
-### Update Log
+<!-- ### Update Log
 
 *2017.2.28*
 
@@ -81,11 +85,11 @@ type: page
 * `[-]` 去除了 jQuery 和 BootStrap，使得加载速度更快
 
 * 2016.3-2016.4 进行了一次大的改版和重构，详见 [README](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/README.md) 和博文 [对这个 jekyll 博客主题的改版和重构](http://gaohaoyang.github.io/2016/03/12/jekyll-theme-version-2.0/)
-* 2015.3-2015.4 完成了这个博客主题的第一版。
+* 2015.3-2015.4 完成了这个博客主题的第一版。 -->
 
 ## 友情链接
 
-[文俊博客](http://www.wenjunboke.com) \| 
+[文俊博客](http://www.wenjunboke.com) \| [武汉前端开发](http://www.webforend.com/) \| [茂茂的博客](http://www.humaolie.com/index.html)
 
 <!-- [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/) -->
 
