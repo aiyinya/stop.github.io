@@ -3,7 +3,7 @@ layout: post
 title:  "提升用户体验的前端动画"
 categories: JavaScript
 tags: 动画 手势
-author: XuShiJie
+author: HyG
 ---
 
 * content
