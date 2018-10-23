@@ -5,7 +5,6 @@ date:   2018-10-23 13:02:18 +0800
 categories: 前端知识
 tags:  前端知识 CSS 三栏布局
 author: Xu ShiJie
-mathjax: false
 ---
 
 * content
@@ -27,6 +26,10 @@ mathjax: false
 `sessionStorage`和`localStorage`虽然也有存储大小的限制，但比`cookie`大得多，可以达到5M或更大。
 
 >2）有效时间
+
+
+
+
 
 `localStorage` :存储持久数据，浏览器关闭后数据不丢失除非主动删除数据。
 `sessionStorage` : 数据在当前浏览器窗口关闭后自动删除。         
