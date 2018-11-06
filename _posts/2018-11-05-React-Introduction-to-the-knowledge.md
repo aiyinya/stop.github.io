@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "React入门（一）"
+title:  "React知识汇总"
 date:   2018-11-05 18:20:30 +0800
 categories: React 
 tags: React  虚拟DOM  React组件生命周期
@@ -1177,12 +1177,13 @@ class Father extends React.Component {
 
 #### 使用步骤
 
-1 导入路由组件
-2 使用` <Router></Router> `作为根容器，包裹整个应用（JSX）
+- 1 导入路由组件
+
+- 2 使用` <Router></Router> `作为根容器，包裹整个应用（JSX）
 
 在整个应用程序中，只需要使用一次
-3 使用 `<Link to="/movie"></Link> `作为链接地址，并指定to属性
-4 使用 `<Route path="/" compoent={Movie}></Route>` 展示路由内容
+- 3 使用 `<Link to="/movie"></Link> `作为链接地址，并指定`to`属性
+- 4 使用 `<Route path="/" compoent={Movie}></Route>` 展示路由内容
 
 ```js
 // 1 导入组件
@@ -1418,4 +1419,4 @@ dispatch( { type: 'ADD_TODO', name: '要添加的任务名称' } )
 todo(undefined, { type: 'ADD_TODO', name: '要添加的任务名称' })
 ```
 
-[原文作者](http://127.0.0.1:4000/2018/11/05/React-Introduction-to-the-knowledge/#top)
+[原文作者](hhttps://segmentfault.com/a/1190000012921279)
