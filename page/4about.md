@@ -85,7 +85,7 @@ type: page
 
 ## 友情链接
 
-[文俊博客](http://www.wenjunboke.com) \| [武汉前端开发](http://www.webforend.com/) \| [茂茂的博客](http://www.humaolie.com/index.html)
+[文俊博客](http://www.wenjunboke.com) \| [武汉前端开发](http://www.webforend.com/) \| [茂茂的博客](http://www.humaolie.com/index.html) | [xhui's Blog](http://www.xhui.top) 
 
 <!-- [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/) -->
 
