@@ -122,7 +122,7 @@ Of course, I have done a very good mobile adaptation.
 
 ### Footer
 
-**Welcome to use this blog theme, but please keep the theme author info at footer.** Theme designed by [HyG](https://github.com/gaohaoyang).
+**Welcome to use this blog theme, but please keep the theme author info at footer.** Theme designed by [XuShiJie](https://github.com/gaohaoyang).
 
 ![footer](http://ww3.sinaimg.cn/large/7011d6cfjw1f3bepd8002j20hl02ct95.jpg)
 
@@ -177,7 +177,7 @@ Shows at site header part.
 
 ```yml
 # Site settings
-title: HyG
+title: XuShiJie
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
@@ -210,7 +210,7 @@ Visit https://disqus.com/ or http://duoshuo.com/. And follow the prompts at the 
 ```yml
 # comments
 # two ways to comment, only choose one, and use your own short name
-duoshuo_shortname: #hygblog
+duoshuo_shortname: #XuShiJieblog
 disqus_shortname: xxxx
 ```
 
@@ -312,6 +312,9 @@ You can also donate me for a coffee, and I'll do better. Thanks.
 
 Thanks these friends!!!
 
+* 2017.07.02 received Wechat user ¥9.99
+* 2017.06.20 received Wechat user ¥2.22
+* 2017.06.19 received Wechat user ¥6.66
 * 2017.05.25 received Wechat user ¥1.00
 * 2017.05.19 received 风之筝 ¥6.66
 * 2017.05.16 received 张驰 ¥6.00
